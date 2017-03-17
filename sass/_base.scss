@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
